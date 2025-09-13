@@ -1,0 +1,12 @@
+    @charset "utf-8"
+    
+    
+    body{
+            font-style: italic; background-color: aquamarine;
+        }
+        h1{
+            background-color: brown;
+        }
+        p{
+            font-size: 15px;
+        }
